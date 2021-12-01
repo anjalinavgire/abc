@@ -144,6 +144,9 @@ section #about-container{
     margin-top: 0%;
    margin: 60px;
     flex-direction: column;
+    border-box{
+        width:100%;
+        height:auto;}
 
 }
 #services .box{
