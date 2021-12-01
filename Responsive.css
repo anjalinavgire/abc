@@ -72,7 +72,7 @@ h1.h-primary {
     width:300%;
     height:180%;
     overflow:auto;
-    position:absolute;
+    position:fixed;
     top:0;
     left:0;
     }
@@ -109,7 +109,7 @@ section #about-container{
 }
 
 .parallax{
-    background:url("wb.jpg")no-repeat center;
+    background:transparent;
     background-size:cover;
     background-attachment:fixed;
  margin-top: 370px;
@@ -120,12 +120,13 @@ section #about-container{
     padding: 3px;
     margin-top: -24px;
     font-size: 24px;
+     font-color: white;
 }
 
 #about-container p{
     font-size: 14px;
-    
-    /* line-height: 1.8; */
+    font-color: white;
+    line-height: 1.5;
 }
 
 
