@@ -65,6 +65,7 @@ a {
 }
 
 .bar {
+    position: fixed;
     display: block;
     width: 18px;
     height: 3px;
@@ -214,7 +215,7 @@ a {
   padding: 30px;
   margin-left:30px;
   margin-right: 30px;
-  color: rgb(0, 0, 0);
+  color: white;
 }
 #services .box img{
   height: 156px;
@@ -235,7 +236,7 @@ a {
   padding: 30px;
   margin-left:30px;
   margin-right: 30px;
-  color:rgb(0, 0, 0);
+  color:white;
 }
 #services1 .box img{
   height: 156px;
