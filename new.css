@@ -106,7 +106,7 @@ a {
         top: 5rem;
         flex-direction: column;
         background-color:rgba(2, 2, 2, 1.747);
-        width: 100%;
+        width: 104%;
         
         text-align: center;
         transition: 0.3s;
@@ -115,7 +115,7 @@ a {
     }
 
     .nav-menu.active {
-        left: -439px;
+        left: -21px;
     }
 
     .nav-item {
