@@ -150,7 +150,7 @@ section #about-container{
     padding: 14px;
     margin:2px 0;
     margin-bottom: 20px;
-    color: rgb(3, 3, 3);
+    color: white;
     background-color: rbga(0,0,0,0.2);
 
 }
@@ -168,7 +168,7 @@ section #about-container{
     padding: 14px;
     margin:2px 0;
     margin-bottom: 20px;
-    color: rgb(5, 5, 5);
+    color: white;
 }
 
     #services1 .box p{
